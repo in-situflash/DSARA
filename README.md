@@ -17,7 +17,7 @@ Prior to the evaluation process, add all necessary checkpoint files (preferably 
 To conduct white-box attacks, 
 ```
 cd eval &&
-python pgd_attack.py --white-box-attack True --test-batch-size 10 --arch [arch_name] --data_type [cifar10/svhn]
+python pgd_attack.py --white-box-attack True --test_best True --test-batch-size 10 --arch [arch_name] --data_type [cifar10/svhn]
 ```
 
 
