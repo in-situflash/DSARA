@@ -11,7 +11,7 @@ Python == 3.6.12, PyTorch == 1.2.0, torchvision == 0.4.0
 ```
 cd advrush && python adv_train.py --batch_size 32 --gpu 2 --epochs 200 --adv_loss pgd --arch DSARA
 ```
-
+Please note that the best model always appears around the 100th epoch.
 ## Evaluation under PGD Attack
 Prior to the evaluation process, add all necessary checkpoint files (preferably in the form of .pth.tar) to the /eval/EXP folder.
 To conduct white-box attacks, 
