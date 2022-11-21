@@ -1,5 +1,5 @@
 # DSARA
-Training and Testing Code for [DSARA](https://github.com/in-situflash/DSARA). The code is modified from the code provided by [AdvRush](https://github.com/nutellamok/advrush) 
+Training and testing code for [DSARA](https://github.com/in-situflash/DSARA). The code is modified from the code provided by [AdvRush](https://github.com/nutellamok/advrush) 
 
 ## Environmental Set-up
 ```
